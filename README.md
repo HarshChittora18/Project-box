@@ -1,1 +1,1 @@
-Project link: https://project-holder-react-app.netlify.app/
+Project link: https://project-box.netlify.app/
